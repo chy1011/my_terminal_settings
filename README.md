@@ -3,7 +3,7 @@
 
 ###Install zsh
 ```
-sudo apt-get update -y\
+sudo apt-get update -y
 sudo apt-get install zsh -y
 ```
 ###Install oh-my-zsh
@@ -27,6 +27,6 @@ sudo apt-get install powerline -y
 
 ### Copy .zshrc .tmux.conf onto home directory.
 ```
-cd into cloned directory\
+cd into cloned directory
 cp .zshrc .tmux.conf ~
 ```
