@@ -1,6 +1,6 @@
 # My Terminal Settings
 ## Steps to setup on a new machine
-`
+
 Install zsh
 Install oh-my-zsh
 Install zsh-autosuggestions
